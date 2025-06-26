@@ -1,11 +1,9 @@
 Messaging App (Local Test Version)
 A simple, feature-rich messaging app tested and run locally. This app allows basic message exchanges, media sharing, and location access within a clean, interactive interface.
 
-Features
+Features:
 💬 Send and delete messages
-
 🗺️ View a map and enable location access
-
 🖼️ Upload and view images with zoom
 
 ⚡️ Developed for local testing and demonstration
